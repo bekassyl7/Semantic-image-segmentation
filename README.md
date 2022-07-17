@@ -9,7 +9,6 @@
 
 #
 - **CNN**: U-Net model + batch normalization layers + data augmentation
-- **Pixel-wise quantification**: ___
 
 
 
